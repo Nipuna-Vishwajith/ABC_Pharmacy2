@@ -1,0 +1,14 @@
+.modern-footer {
+    background-color: #3498db; 
+    color: #ecf0f1; 
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  

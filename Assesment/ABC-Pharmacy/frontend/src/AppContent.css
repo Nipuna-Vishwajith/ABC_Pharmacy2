@@ -1,0 +1,11 @@
+
+.app-content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+  
+  .content-wrapper {
+    margin-top: 20px; 
+  }
+  
